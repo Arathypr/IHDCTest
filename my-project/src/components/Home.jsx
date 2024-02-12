@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import logo from "../assets/logo.png";
 
 const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+  return <></>;
+};
 
-export default Home
+export default Home;
